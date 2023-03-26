@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Short course and wokshop on building Augmented Reality visualizations accepted at USNCCM17 and SB3C 2023, respectively. 
+Workshops on building Augmented Reality visualizations accepted at USNCCM17 and SB3C 2023 
