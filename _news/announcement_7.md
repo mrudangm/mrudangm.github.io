@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected as a finalist in the 2023 ASME/SB3C PhD Student Paper Competition
+Selected as a finalist in 2023 ASME/SB3C PhD Student Paper Competition

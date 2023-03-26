@@ -5,10 +5,10 @@ inline: true
 related_posts: false
 ---
 
-Awarded Predoctoral Fellowship by the American Heart Association 
+Awarded AHA Predoctoral Fellowship
 
 ***
 
-Details on AHA Predoc 
+Awarded Predoctoral Fellowship by the American Heart Association. Details on AHA Predoc 
 
 ***

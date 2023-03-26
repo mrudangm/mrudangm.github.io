@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Workshops on building Augmented Reality visualizations accepted at USNCCM17 and SB3C 2023 
+Workshops on Augmented Reality for scientific visualization accepted at USNCCM17 and SB3C 2023 
