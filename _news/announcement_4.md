@@ -1,10 +1,9 @@
 ---
 layout: post
-date: 2021-12-13 07:59:00-0400
-title: Awarded AHA Predoctoral Fellowship
+date: 2022-09-12 07:59:00-0400
+title: Received SES 2022 Travel Award
 inline: false
 related_posts: false
 ---
 
-Awarded Predoctoral Fellowship by the American Heart Association. Details on AHA Predoc 
-
+Recieved conference Travel Award to attend the Society of Engineering Science Annual Technical Meeting
