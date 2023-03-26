@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2022-12-15 07:59:00-0400
-inline: true
+date: 2021-04-05 07:59:00-0400
+title: Awarded ME research award at UT GAIN
+inline: false
 related_posts: false
 ---
 
-Workshops on Augmented Reality for scientific visualization accepted at USNCCM17 and SB3C 2023 
+I received a departmental research award for his poster presentation on ‘True Subject-Specific Computational Models of the Human Tricuspid Valve‘ at this years UT GAIN event.
