@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: AHA Predoctoral Fellow. <a href='#'>The University of Texas at Austin</a>.
 
 profile:
   align: right
