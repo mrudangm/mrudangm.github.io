@@ -7,7 +7,7 @@ subtitle: AHA Predoctoral Fellow. <a href='#'>The University of Texas at Austin<
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p></p>
     <p></p>
