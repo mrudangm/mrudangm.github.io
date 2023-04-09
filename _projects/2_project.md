@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Histomechanics of Soft Tissues
+title: Tissue Histomechanics
 description: 
-img: assets/img/3.jpg
+img: assets/img/
 importance: 2
 category: work
 ---
