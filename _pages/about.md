@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a PhD candidate in Mechanical Engineering working with [Dr. Manuel K. Rausch](http://www.manuelrausch.com/) on Tricuspid Valve biomehcanics. Previously, I received a B.Tech degree in Mechanical Engineering from Delhi Technological University.
+I am a PhD candidate in Mechanical Engineering working with [Dr. Manuel K. Rausch](http://www.manuelrausch.com/) on Tricuspid Valve biomechanics. Previously, I received a B.Tech degree in Mechanical Engineering from Delhi Technological University.
 
 My research interests include cardiovascular biomechanics, computational science, image processing, and scientific visualization. 
 
