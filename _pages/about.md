@@ -25,7 +25,7 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I am a Postdoctoral Scholar working with [Dr. William Hiesinger](). Previously, I completed my PhD in Mechanical Engineering at The University of Texas at Austin, working with [Dr. Manuel K. Rausch](http://www.manuelrausch.com/) on tricuspid valve biomechanics. Before moving to the US, I received a B.Tech degree in Mechanical Engineering from Delhi Technological University.
+I am a Postdoctoral Scholar working with [Dr. William Hiesinger](https://www.hiesingerlab.com/). Previously, I completed my PhD in Mechanical Engineering at The University of Texas at Austin, working with [Dr. Manuel K. Rausch](http://www.manuelrausch.com/) on tricuspid valve biomechanics. Before moving to the US, I received a B.Tech degree in Mechanical Engineering from Delhi Technological University.
 
 My research interests include cardiovascular biomechanics, computational science, surgical robotics, image processing, and scientific visualization. 
 
