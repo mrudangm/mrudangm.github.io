@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar. <a href='#'>Stanford University</a>.
+subtitle: Postdoctoral Scholar. <a href='https://www.stanford.edu/'>Stanford University</a>.
 
 profile:
   align: right
