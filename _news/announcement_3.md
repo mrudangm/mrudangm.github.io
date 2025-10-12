@@ -2,7 +2,7 @@
 layout: post
 date: 2021-08-09 07:59:00-0400
 title: Awarded scholarship by Cockrell School, UT Austin
-inline: false
+inline: true
 related_posts: false
 ---
 
