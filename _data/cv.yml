@@ -23,6 +23,31 @@
       institution: Delhi Technological University, New Delhi, India
       year: 2018
 
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral Scholar
+      institution: Stanford University, Stanford, CA
+      year: July 2024 - present
+      description:
+    - title: Graduate Research Assistant
+      institution: The University of Texas at Austin, Austin, TX
+      year: Aug 2018 - May 2024 
+      description:
+    - title: Summer Research Fellow
+      institution: Nanyang Technological University, Singapore
+      year: Jun 2017 - Aug 2017 
+      description:
+    - title: Undergraduate Reseach Assistant
+      institution: Delhi Technological University, Delhi, India
+      year: Aug 2016 - Jun 2018 
+    - title: Research Engineer
+      institution: Innovator Lab Consultants, India
+      year: Feb 2015 - Jun 2018 
+      description:
+ #       - Description 1.
+ #       - Description 2.
+
 #- title: Experience
 #  type: time_table
 #  contents:
