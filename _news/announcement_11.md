@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I defended my PhD dissertation titled "Towards Understanding Tricuspid Valve Mechanics and Funcion in Health, Disease, and Repair"
+I defended my PhD dissertation titled "Towards Understanding Tricuspid Valve Mechanics and Function in Health, Disease, and Repair"
