@@ -49,7 +49,7 @@ horizontal: false
 
 <img src="/assets/img/AR_Instructions.png" alt="Grid Overview Image" class="header-image">
 
-<model-viewer alt="Hex_Packing" src="http://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
+<model-viewer alt="Hex_Packing" src="https://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
 
 #### FCC 
