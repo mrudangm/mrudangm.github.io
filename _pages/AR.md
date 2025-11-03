@@ -52,10 +52,8 @@ horizontal: false
 ### HCP ABA Packing
 <model-viewer alt="Hex_Packing" src="http://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
-<div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
 
+<!--
 ### FCC ABC Packing
 <model-viewer alt="FCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_FCP_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
@@ -77,7 +75,7 @@ horizontal: false
     </model-viewer>
 
 
-<!--
+
 <div class="grid-container">
 
   <div>
