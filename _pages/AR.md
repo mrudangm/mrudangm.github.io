@@ -92,13 +92,13 @@ horizontal: false
 
 </div>
 
-<!--
+
 ## Model Viewer Integration
 
 
 <model-viewer alt="OCS13_AR Model" src="/assets/ar_models/OCS13/OCS13_1015_elset.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
 </model-viewer>
-
+<!--
 -->
 
 
