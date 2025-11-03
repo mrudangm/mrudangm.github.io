@@ -49,7 +49,32 @@ horizontal: false
 
 <img src="/assets/img/AR_Instructions.png" alt="Grid Overview Image" class="header-image">
 
+### HCP ABA Packing
+<model-viewer alt="Hex_Packing" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_Hex_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+</model-viewer>
 
+### FCC ABC Packing
+<model-viewer alt="FCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_FCP_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+</model-viewer>
+
+### HCP 
+<model-viewer alt="HCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/HCP_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+</model-viewer>
+
+#### FCC 
+<model-viewer alt="FCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_files/FCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+</model-viewer>
+
+### BCC
+<model-viewer alt="BCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/BCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+    </model-viewer>
+
+### SC
+<model-viewer alt="SCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/SCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+    </model-viewer>
+
+
+<!--
 <div class="grid-container">
 
   <div>
@@ -74,7 +99,7 @@ horizontal: false
 
   <div>
     <div class="model-caption">FCC</div>
-    <model-viewer alt="FCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/FCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+    <model-viewer alt="FCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_files/FCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
     </model-viewer>
   </div>
 
@@ -93,12 +118,13 @@ horizontal: false
 </div>
 
 
+
 ## Model Viewer Integration
 
 
 <model-viewer alt="OCS13_AR Model" src="/assets/ar_models/OCS13/OCS13_1015_elset.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
 </model-viewer>
-<!--
+
 -->
 
 
