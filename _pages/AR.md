@@ -50,27 +50,30 @@ horizontal: false
 <img src="/assets/img/AR_Instructions.png" alt="Grid Overview Image" class="header-image">
 
 ### HCP ABA Packing
-<model-viewer alt="Hex_Packing" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_Hex_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+<model-viewer alt="Hex_Packing" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_Hex_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
+<div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
 
 ### FCC ABC Packing
-<model-viewer alt="FCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_FCP_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+<model-viewer alt="FCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_FCP_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
 
 ### HCP 
-<model-viewer alt="HCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/HCP_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+<model-viewer alt="HCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/HCP_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
 
 #### FCC 
-<model-viewer alt="FCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_files/FCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+<model-viewer alt="FCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_files/FCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
 
 ### BCC
-<model-viewer alt="BCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/BCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+<model-viewer alt="BCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/BCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
     </model-viewer>
 
 ### SC
-<model-viewer alt="SCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/SCC_Atoms_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
+<model-viewer alt="SCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/SCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
     </model-viewer>
 
 
