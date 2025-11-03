@@ -49,6 +49,7 @@ horizontal: false
 
 <img src="/assets/img/AR_Instructions.png" alt="Grid Overview Image" class="header-image">
 
+<!--
 <model-viewer alt="Hex_Packing" src="https://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
 
@@ -56,7 +57,7 @@ horizontal: false
 <model-viewer alt="FCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_files/FCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
 </model-viewer>
 
-<!--
+
 
 ### HCP ABA Packing
 <model-viewer alt="Hex_Packing" src="http://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
@@ -80,22 +81,24 @@ horizontal: false
 <model-viewer alt="SCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/SCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
     </model-viewer>
 
+-->
 
 
 <div class="grid-container">
 
   <div>
-    <div class="model-caption">HCP ABA-Packing</div>
-    <model-viewer alt="Hex_Packing" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_Hex_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
-    </model-viewer>
+  <div class="model-caption">HCP ABA Packing</div>
+    <model-viewer alt="Hex_Packing" src="https://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
+</model-viewer>
   </div>
 
   <div>
-    <div class="model-caption">FCC ABC-Packing</div>
-    <model-viewer alt="FCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_FCP_Compressed.glb" ar  shadow-intensity="1" camera-controls touch-action="pan-y">
-    </model-viewer>
+    <div class="model-caption">FCC ABC Packing</div>
+    <model-viewer alt="FCP_Packing" src="https://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_FCP.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
+</model-viewer>
   </div>
 
+<!--
  
   <div>
     <div class="model-caption">HCP</div>
@@ -122,10 +125,12 @@ horizontal: false
     </model-viewer>
   </div>
 
+-->
+
 </div>
 
 
-
+<!--
 ## Model Viewer Integration
 
 
