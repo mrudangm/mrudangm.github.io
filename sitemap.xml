@@ -102,11 +102,11 @@
 </url>
 <url>
 <loc>https://mrudangm.github.io/projects/1_project/</loc>
-<lastmod>2025-10-22T04:27:37+00:00</lastmod>
+<lastmod>2025-11-03T06:38:59+00:00</lastmod>
 </url>
 <url>
 <loc>https://mrudangm.github.io/projects/2_project/</loc>
-<lastmod>2025-10-22T04:27:37+00:00</lastmod>
+<lastmod>2025-11-03T06:38:59+00:00</lastmod>
 </url>
 <url>
 <loc>https://mrudangm.github.io/ar/</loc>
@@ -125,6 +125,9 @@
 </url>
 <url>
 <loc>https://mrudangm.github.io/publications/</loc>
+</url>
+<url>
+<loc>https://mrudangm.github.io/splat/</loc>
 </url>
 <url>
 <loc>https://mrudangm.github.io/blog/tag/formatting/</loc>
@@ -158,5 +161,9 @@
 </url>
 <url>
 <loc>https://mrudangm.github.io/blog/2022/</loc>
+</url>
+<url>
+<loc>https://mrudangm.github.io/spark-embed.html</loc>
+<lastmod>2025-11-03T06:38:12+00:00</lastmod>
 </url>
 </urlset>
