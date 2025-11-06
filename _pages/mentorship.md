@@ -14,45 +14,59 @@ Mentoring students is one of the most rewarding experiences as an academic and, 
 ____________________________________________________________________________________________________________
 
 ##### Joseph Cho
-**Research Engineer**, Stanford University
+**Research Engineer**, Stanford University\
+Developed generalizable deep learning systems to medical image synthesis and pediatric echocardiography analysis
 
 ##### Dhamanpreet Kaur
-**Medical Student**, Stanford University
+**Medical Student**, Stanford University\
+Examined sex-disparities in performance of foundation models for cardiac MRI
 
 ##### Aniket Dembi
-**Vising Medical Student**, Stanford University
+**Vising Medical Student**, Stanford University\
+Benchmarked performance of quantized deep learning models for echocardiography analysis
 
 ##### Adil Dahlan
-**Vising Medical Student**, Stanford University
+**Vising Medical Student**, Stanford University\
+Developed tools to align patient data for large-scale medical deep learning
 
 ##### Tatum Eades
 **Visiting Undergraduate Researcher**, _Cardiovascular Institute Summer Program_, Stanford University
+Developed soft-robotic left ventricle to simulate hypertrophic obstructive cardiomyopathy
 
 ____________________________________________________________________________________________________________
 
 ##### Chien-Yu Lin
-**Graduate Student**, The University of Texas at Austin
+**Graduate Student**, The University of Texas at Austin\
+Developed non-destructive methods to experimentally characterize soft tissue thickness
 
 ##### Collin E. Haese
-**Graduate Student**, The University of Texas at Austin
+**Graduate Student**, The University of Texas at Austin\
+Computationally examined effect of tricuspid annuloplasty ring selection on valvular mechanics
 
 ##### Alberto Madariaga
-**Graduate Student**, The University of Texas at Austin
+**Graduate Student**, The University of Texas at Austin\
+Developed low-cost biaxial tensile test device
 
 ##### Vijay Dubey
-**Graduate Student**, The University of Texas at Austin
+**Graduate Student**, The University of Texas at Austin\
+Automatically segmented tricuspid valve geometries from 3D echocardiography scans
 
 ##### Joesph Brozovich
-**Undergraduate Researcher**, The University of Texas at Austin
+**Undergraduate Researcher**, The University of Texas at Austin\
+Developed augmented reality visualization models for iOS
 
 ##### Alex Lozano
-**Undergraduate Researcher**, The University of Texas at Austin
+**Undergraduate Researcher**, The University of Texas at Austin\
+Accelerated hyperelastic shape matching methods for the tricuspid valve
 
 ##### Saivee Shelke
-**Undergraduate Researcher**, The University of Texas at Austin
+**Undergraduate Researcher**, The University of Texas at Austin\
+Examined data compression techniques for hyperelastic shape matching methods 
 
 ##### Palbo S Anguiano
-**Undergraduate Researcher**, The University of Texas at Austin
+**Undergraduate Researcher**, The University of Texas at Austin\
+Automatically co-registered anatomic and DT-MRI scans from the ovine right ventricle
 
 ##### Zhaokun Xue
-**Undergraduate Researcher**, _Moncrief Summer Internship_, The University of Texas at Austin
+**Undergraduate Researcher**, _Moncrief Summer Internship_, The University of Texas at Austin\
+Quantitatively analyzed tricuspid annuloplasy ring geometry
