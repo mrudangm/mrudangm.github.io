@@ -28,9 +28,9 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome to my website! 
 
-I'm postdoctoral scholar at **Stanford Univesity** working with [Dr. William Hiesinger](https://www.hiesingerlab.com/) in the Department of Cardiothoracic Surgery. My current research is focused on **fluid-structure interaction**, **surgical robotics**, and **deep learning in medicine**. 
+I'm postdoctoral scholar at **Stanford Univesity** working with **[Dr. William Hiesinger](https://www.hiesingerlab.com/)** in the Department of Cardiothoracic Surgery. My current research is focused on **fluid-structure interaction**, **surgical robotics**, and **deep learning in medicine**. 
 
-I completed my PhD in Mechanical Engineering at **The University of Texas at Austin**, working with [Dr. Manuel K. Rausch](http://www.manuelrausch.com/). My dissertation research centered on understanding **tricuspid valve mechanics and function** in health, disease, and post-repair. 
+I completed my PhD in Mechanical Engineering at **The University of Texas at Austin**, working with **[Dr. Manuel K. Rausch](http://www.manuelrausch.com/)**. My dissertation research centered on understanding **tricuspid valve mechanics and function** in health, disease, and post-repair. 
 
 Before moving to the US, I was a visiting researcher at **NTU Singapore**, worked as a research engineer at **Innovator Labs India**, and received my undergraduate degree in Mechanical Engineering from **Delhi Technological University**.
 
