@@ -2,19 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar. <a href='https://www.stanford.edu/'>Stanford University</a>.
+#subtitle: Postdoctoral Scholar. <a href='https://www.stanford.edu/'>Stanford University</a>.
+subtitle: <a href='https://arxiv.org/pdf/2405.09806'>Deep Learning</a> | <a href='https://static1.squarespace.com/static/562c1058e4b0f8ea949c2a94/t/629222f8456c296566d768f7/1653744378623/EWCO22.pdf'>Computational Mechanics</a> | <a href='https://www.medrxiv.org/content/10.1101/2025.10.27.25338912v1.full.pdf'>Cardiovascular Medicine</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: MM_NoCoat_Cropped.png
+  image_circular: false # crops the image to make it circular
   address: >
     <p></p>
     <p></p>
     <p></p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
 # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
@@ -25,9 +26,14 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I work with [Dr. William Hiesinger](https://www.hiesingerlab.com/) in the Department of Cardiothoracic Surgery at Stanford Medicine, on physics-based virtual surgical planning and training of surgical robots as well as generative AI in medicine. Previously, I completed my PhD in Mechanical Engineering at The University of Texas at Austin, working with [Dr. Manuel K. Rausch](http://www.manuelrausch.com/) on tricuspid valve biomechanics. Before moving to the US, I received a B.Tech degree in Mechanical Engineering from Delhi Technological University.
+Welcome to my website! 
 
-My research interests include cardiovascular biomechanics, computational science, surgical robotics, generative AI, image processing, and scientific visualization. 
+I'm postdoctoral scholar at **Stanford Univesity** working with [Dr. William Hiesinger](https://www.hiesingerlab.com/) in the Department of Cardiothoracic Surgery. My current research is focused on **fluid-structure interaction**, **surgical robotics**, and **deep learning in medicine**. 
+
+I completed my PhD in Mechanical Engineering at **The University of Texas at Austin**, working with [Dr. Manuel K. Rausch](http://www.manuelrausch.com/). My dissertation research centered on understanding **tricuspid valve mechanics and function** in health, disease, and post-repair. 
+
+Before moving to the US, I was a visiting researcher at **NTU Singapore**, worked as a research engineer at **Innovator Labs India**, and received my undergraduate degree in Mechanical Engineering from **Delhi Technological University**.
+
 
 
 

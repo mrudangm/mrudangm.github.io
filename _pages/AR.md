@@ -4,7 +4,7 @@ title: augmented reality
 permalink: /ar/
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
@@ -43,45 +43,15 @@ horizontal: false
     }
 </style>
 
+ I developed augmented reality models of unit cells to help students at UT-Austin better understand crystal structures (see below). Given the impact of these models, I **independently conducted workshops** at the 17<sup>th</sup> US National Congress for Computational Mechanics ([USNCCM17](https://17.usnccm.org/)) and the Summer Bioengineering, Biomechanics, & Biotransport Conference ([SB3C](https://archive.sb3c.org/sb3c2023/)), to share my methods with the scientific community. I've also **[published](https://static1.squarespace.com/static/562c1058e4b0f8ea949c2a94/t/635d5c7a227cca7a1389205e/1667062908130/FEAD22.pdf)** these techniques and **[open-sourced]((https://github.com/SoftTissueBiomechanicsLab/AR_Pipeline)**)** the corresponding code. As a result, these methods are now integrated into the mechanics of materials curriculum at **UT-Austin (ASE324L)** as well as **MIT ([2.002](https://portela.mit.edu/2-002-design-challenge-2025/))** and are used internationally by researchers at **[ETH-Zurich](https://www.sciencedirect.com/science/article/pii/S001379442400482X)** and **[TU-Delft](https://peirlincklab.com/ar/)**. 
+
+Scan the QR code below to begin!
+
 
 ## Crystal Structures 
 
 
 <img src="/assets/img/AR_Instructions.png" alt="Grid Overview Image" class="header-image">
-
-<!--
-<model-viewer alt="Hex_Packing" src="https://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
-</model-viewer>
-
-#### FCC 
-<model-viewer alt="FCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_files/FCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
-</model-viewer>
-
-
-
-### HCP ABA Packing
-<model-viewer alt="Hex_Packing" src="http://softtissuebiomechanicslab.github.io/assets/ASE324L/Packing_Hex.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
-</model-viewer>
-
-### FCC ABC Packing
-<model-viewer alt="FCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/Packing_FCP_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
-</model-viewer>
-
-### HCP 
-<model-viewer alt="HCP_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/HCP_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
-</model-viewer>
-
-
-
-### BCC
-<model-viewer alt="BCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/BCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
-    </model-viewer>
-
-### SC
-<model-viewer alt="SCC_Structure" src="/assets/ar_models/Crystal_Structures/GLB_Files/SCC_Atoms_Compressed.glb" ar ar-modes="webxr scene-viewer quick-look" ar-scale="auto" camera-controls>
-    </model-viewer>
-
--->
 
 
 <div class="grid-container">
