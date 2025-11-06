@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Mrudang Mathur, PhD # the website title (if blank, full name will be used instead)
+title: Mrudang Mathur # the website title (if blank, full name will be used instead)
 first_name: Mrudang
 middle_name: 
-last_name: Mathur, PhD
+last_name: Mathur
 email: mrudang@stanford.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
