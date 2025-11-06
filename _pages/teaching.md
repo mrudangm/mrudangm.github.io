@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-I have taught **STEM undergraduate students** at all stages of their engineering education, as well as students from **non-STEM disciplines** (in OM337, see below). Through these experiences, I have gained a diverse perspective on the challenges and strategies needed to effectively communicate as an educator for varied audiences. I also believe my role as educator extends **beyond the classroom** and have led workshops on scientific visualization using augmented reality ([detailed here](https://mrudangm.github.io/ar/)) at **multiple international conferences**. 
+I have taught **STEM undergraduate students** at all stages of their engineering education, as well as students from **non-STEM disciplines** (in OM337, see below). Through these experiences, I have gained a diverse perspective on the challenges and strategies needed to effectively communicate as an educator for varied audiences. I also believe my role as educator extends **beyond the classroom** and have led workshops on scientific visualization using augmented reality **([detailed here](https://mrudangm.github.io/ar/))** at **multiple international conferences**. 
 
 
 ##### _Reimagining Scientific Visualization with Augmented Reality_

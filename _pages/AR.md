@@ -4,7 +4,7 @@ title: augmented reality
 permalink: /ar/
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work, fun]
 horizontal: false
 ---
@@ -43,7 +43,7 @@ horizontal: false
     }
 </style>
 
- I developed augmented reality models for scientific visualization to help students at UT-Austin better understand **[crystal structures](https://en.wikipedia.org/wiki/Crystal_structure)** (see below). Given the impact of these models, I **independently conducted workshops** at the 17<sup>th</sup> US National Congress for Computational Mechanics ([USNCCM17](https://17.usnccm.org/)) and the Summer Bioengineering, Biomechanics, & Biotransport Conference ([SB3C](https://archive.sb3c.org/sb3c2023/)), to share my methods with the scientific community. I've also **[published](https://static1.squarespace.com/static/562c1058e4b0f8ea949c2a94/t/635d5c7a227cca7a1389205e/1667062908130/FEAD22.pdf)** these techniques and **[open-sourced]((https://github.com/SoftTissueBiomechanicsLab/AR_Pipeline)**)** the corresponding code. As a result, these methods are now integrated into the mechanics of materials curriculum at **UT-Austin (ASE324L)** as well as **MIT ([2.002](https://portela.mit.edu/2-002-design-challenge-2025/))** and are used internationally by researchers at **[ETH-Zurich](https://www.sciencedirect.com/science/article/pii/S001379442400482X)** and **[TU-Delft](https://peirlincklab.com/ar/)**. 
+ I developed augmented reality models for scientific visualization to help students at UT-Austin better understand **[crystal structures](https://en.wikipedia.org/wiki/Crystal_structure)** (see below). Given the impact of these models, I **independently conducted workshops** at the 17<sup>th</sup> US National Congress for Computational Mechanics **([USNCCM17](https://17.usnccm.org/))** and the Summer Bioengineering, Biomechanics, & Biotransport Conference **([SB3C](https://archive.sb3c.org/sb3c2023/))**, to share my methods with the scientific community. I've also **[published](https://static1.squarespace.com/static/562c1058e4b0f8ea949c2a94/t/635d5c7a227cca7a1389205e/1667062908130/FEAD22.pdf)** these techniques and **[open-sourced](https://github.com/SoftTissueBiomechanicsLab/AR_Pipeline)** the corresponding code. As a result, these methods are now integrated into the mechanics of materials curriculum at **UT-Austin (ASE324L)** as well as **MIT ([2.002](https://portela.mit.edu/2-002-design-challenge-2025/))** and are used internationally by researchers at **[ETH-Zurich](https://www.sciencedirect.com/science/article/pii/S001379442400482X)** and **[TU-Delft](https://peirlincklab.com/ar/)**. 
 
 Scan the QR code below to begin!
 

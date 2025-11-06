@@ -3,23 +3,28 @@ layout: page
 title: mentorship
 permalink: /mentorship/
 description: 
-nav: false
-nav_order: 2
+nav: true
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
 
-Mentoring students is one of the most rewarding experiences as an academic and, one that I have thoroughly enjoyed. To strengthen my mentoring practices, I participated in an NSF workshop at UT-Austin titled _Inclusive Mentoring of Undergraduate Researchers in STEM_. From this workshop, I have incorporated the following key points into my own mentorship practices: (1) **active listening**, (2) **clear communication of expectations**, and (3) **fostering a reciprocal research compact**. These values have guided my approach since then and have helped me collaboratively work with **undergraduate**, **graduate**, and **medical students** at UT-Austin and Stanford (see below). 
+Mentoring students is one of the most rewarding experiences as an academic and one that I have thoroughly enjoyed. To strengthen my mentoring practices, I participated in an NSF workshop at UT-Austin titled _Inclusive Mentoring of Undergraduate Researchers in STEM_. From this workshop, I have incorporated the following key points into my own mentorship practices: (1) **active listening**, (2) **clear communication of expectations**, and (3) **fostering a reciprocal research compact**. These values have guided my approach since then and have helped me collaboratively work with **undergraduate**, **graduate**, and **medical students** at UT-Austin and Stanford (see below). 
 
 ____________________________________________________________________________________________________________
 
 ##### Joseph Cho
 **Research Engineer**, Stanford University\
-Developed generalizable deep learning systems to medical image synthesis and pediatric echocardiography analysis
+Developed generalizable deep learning systems for medical image synthesis and pediatric echocardiography analysis
 
 ##### Dhamanpreet Kaur
 **Medical Student**, Stanford University\
 Examined sex-disparities in performance of foundation models for cardiac MRI
+
+##### Abhinav Kumar
+**Graduate Student**, Stanford University\
+Developed novel-view synthesis techniques for reconstructing cardiac anatomy in 3D
+
 
 ##### Aniket Dembi
 **Vising Medical Student**, Stanford University\
