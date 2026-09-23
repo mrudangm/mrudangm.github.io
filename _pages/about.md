@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 #subtitle: Postdoctoral Scholar. <a href='https://www.stanford.edu/'>Stanford University</a>.
-subtitle: <a href='https://arxiv.org/pdf/2405.09806'>Deep Learning</a> | <a href='https://static1.squarespace.com/static/562c1058e4b0f8ea949c2a94/t/629222f8456c296566d768f7/1653744378623/EWCO22.pdf'>Computational Mechanics</a> | <a href='https://www.medrxiv.org/content/10.1101/2025.10.27.25338912v1.full.pdf'>Cardiovascular Medicine</a>
+subtitle: <a href='https://arxiv.org/pdf/2405.09806'>Deep Learning</a> | <a href='https://static1.squarespace.com/static/562c1058e4b0f8ea949c2a94/t/629222f8456c296566d768f7/1653744378623/EWCO22.pdf'>Computational Mechanics</a> | <a href='https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.126.080619'>Cardiovascular Medicine</a>
 
 profile:
   align: right
