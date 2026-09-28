@@ -14,7 +14,7 @@ I have taught **STEM undergraduate students** at all stages of their engineering
 
 ##### Reimagining Scientific Visualization with Augmented Reality
 **Instructor**, Stanford University\
-Term: Spring '26 (upcoming)\
+Term: Spring '26 \
 Responsibilities include preparing course content, delivering classroom instruction, holding office hours.
 
 
