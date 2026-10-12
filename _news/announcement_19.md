@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded **Stanford Cardiovascular Institute Seed Grant** to develop quantitiative optimization tools for septal myectomy procedures! **[Co-I: Mrudang Mathur, $20k]**
+Awarded **Seed Grant** from the **[Stanford Cardiovascular Institute](https://med.stanford.edu/cvi.html)**  to develop quantitiative optimization tools for septal myectomy procedures! **[Co-I: Mrudang Mathur, $20k]**
