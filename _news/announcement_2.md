@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-I received a departmental research award for his poster presentation on ‘True Subject-Specific Computational Models of the Human Tricuspid Valve‘ at this years UT GAIN event.
+I received a departmental research award for his poster presentation on **‘True Subject-Specific Computational Models of the Human Tricuspid Valve‘** at this years UT GAIN event.

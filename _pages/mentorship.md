@@ -25,19 +25,25 @@ Examined sex-disparities in performance of foundation models for cardiac MRI
 **Graduate Student**, Stanford University\
 Developed novel-view synthesis techniques for reconstructing cardiac anatomy in 3D
 
-
 ##### Aniket Dembi
-**Vising Medical Student**, Stanford University\
+**Visiting Medical Student**, Stanford University\
 Benchmarked performance of quantized deep learning models for echocardiography analysis
 
 ##### Adil Dahlan
-**Vising Medical Student**, Stanford University\
+**Visiting Medical Student**, Stanford University\
 Developed tools to align patient data for large-scale medical deep learning
 
 ##### Tatum Eades
-**Visiting Undergraduate Researcher**, _Cardiovascular Institute Summer Program_, Stanford University
+**Visiting Undergraduate Researcher**, _Cardiovascular Institute Summer Program_, Stanford University\
 Developed soft-robotic left ventricle to simulate hypertrophic obstructive cardiomyopathy
 
+##### Elizabeth Hung
+**Visiting Undergraduate Researcher**, _Cardiovascular Institute Summer Program_, Stanford University\
+Characterized microstructure of mitral valve leaflets from patients with heart failure
+
+##### Randy Barrick
+**Visiting Undergraduate Researcher**, _Cardiovascular Institute Summer Program_, Stanford University\
+Developed novel-view synthesis techniques for mechanical testing of soft materials\
 ____________________________________________________________________________________________________________
 
 ##### Chien-Yu Lin

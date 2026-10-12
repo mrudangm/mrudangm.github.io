@@ -3,7 +3,8 @@
 <figure>
 
   <picture>
-    {% if site.imagemagick.enabled %}
+    {% assign image_extension = include.path | split: '.' | last | downcase %}
+    {% if site.imagemagick.enabled and image_extension != 'gif' %}
     {% for i in site.imagemagick.widths -%}
       <source 
         class="responsive-img-srcset"

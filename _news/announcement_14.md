@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received travel award from the Society of Engineering Science to attend the Future Faculty Symposium in Atlanta! 
+Received **Travel Award** from the Society of Engineering Science to attend the Future Faculty Symposium in Atlanta! 

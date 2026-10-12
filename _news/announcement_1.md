@@ -6,6 +6,6 @@ inline: false
 related_posts: false
 ---
 
-I was awarded the Warren A. and Alice L. Meyer Endowed Scholarship in Engineering.
+I was awarded the **Warren A. and Alice L. Meyer Endowed Scholarship in Engineering** by the Cockrell School of Engineering, UT Austin.
 
 

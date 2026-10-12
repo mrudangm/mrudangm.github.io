@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received travel award from the US Association for Computational Mechanics to attend USNCCM18 in Chicago!
+Received **Travel Award** from the US Association for Computational Mechanics to attend USNCCM18 in Chicago!

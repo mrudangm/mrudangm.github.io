@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received travel fellowship from the American Academy of Mechanics to attend the 2026 U.S. National Congress on Theoretical and Applied Mechanics in Pasadena! 
+Received **Early Career Travel Fellowship** from the American Academy of Mechanics to attend the 2026 U.S. National Congress on Theoretical and Applied Mechanics in Pasadena! 
