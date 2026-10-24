@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on deep learning for cardiac MRI was published in Nature Biomedical Engineering! *[Stanford Cardiovascular Institute News](https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2026/deep-learning-system-helps-detect-heart-disease.html)*
+Our work on deep learning for cardiac MRI was published in Nature Biomedical Engineering (IF:26.3)! *[Stanford Cardiovascular Institute News](https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2026/deep-learning-system-helps-detect-heart-disease.html)*
